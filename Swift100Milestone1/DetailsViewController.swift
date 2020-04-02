@@ -21,6 +21,10 @@ class DetailsViewController: UIViewController {
 
         title = selectedCountry
         
+        if let imageToLoad = selectedCountry {
+            imageView.image  = UIImage(named: imageToLoad)
+        }
+        
     }
     
 
