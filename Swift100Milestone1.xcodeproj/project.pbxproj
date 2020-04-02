@@ -61,11 +61,11 @@
 				AC86CC192434BA8D00140D05 /* AppDelegate.swift */,
 				AC86CC1B2434BA8D00140D05 /* SceneDelegate.swift */,
 				AC86CC1D2434BA8D00140D05 /* ViewController.swift */,
+				AC94735E2435FDB300AAE1F9 /* DetailsViewController.swift */,
 				AC86CC1F2434BA8D00140D05 /* Main.storyboard */,
 				AC86CC222434BA8E00140D05 /* Assets.xcassets */,
 				AC86CC242434BA8E00140D05 /* LaunchScreen.storyboard */,
 				AC86CC272434BA8E00140D05 /* Info.plist */,
-				AC94735E2435FDB300AAE1F9 /* DetailsViewController.swift */,
 			);
 			path = Swift100Milestone1;
 			sourceTree = "<group>";

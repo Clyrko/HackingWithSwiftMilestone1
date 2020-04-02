@@ -9,11 +9,18 @@
 import UIKit
 
 class DetailsViewController: UIViewController {
+    
+    @IBOutlet var imageView: UIImageView!
+    
+    
+    var selectedCountry: String?
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        title = selectedCountry
+        
     }
     
 
