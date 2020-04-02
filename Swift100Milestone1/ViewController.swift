@@ -9,10 +9,14 @@
 import UIKit
 
 class ViewController: UITableViewController {
+    
+    var countires = [String]()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        // List of available countries
+        countires += ["Estonia", "France", "Germany", "Ireland", "Italy", "Monaco", "Nigeria", "Poland", "Russia", "Spain", "UK", "US"]
     }
 
 
